@@ -1,0 +1,2 @@
+$wololo nnn$wololo test
+$wololo public
