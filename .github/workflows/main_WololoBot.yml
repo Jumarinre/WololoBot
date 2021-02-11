@@ -32,4 +32,4 @@ jobs:
       with:
         app-name: 'WololoBot'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_067d41ba474341d89404440b98f74d1d }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_c50c485306ca49f39007fe8494f5562c }}
